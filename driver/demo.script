@@ -1,0 +1,4 @@
+def x():
+  set_standard_digital_out(0, False)
+  set_standard_digital_out(1, False)
+ end

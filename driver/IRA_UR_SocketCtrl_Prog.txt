@@ -1,0 +1,2 @@
+﻿04.09.2023	1.0.0.0
+	IRA_UR_SocketCtrl_Prog: First Build
